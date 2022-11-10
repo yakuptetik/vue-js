@@ -76,8 +76,9 @@ const tittle = "MY First Vue.Js Project"
                             <img src="../assets/images/96021352.jpeg" class="mr-2" style="width: 25px; height: 25px; border-radius: 50%; margin-right: 10px;" />
                             <strong style="margin-left: -4px; margin-right: 5px">{{ item.name }}</strong>{{ item.surname }}
                           </div>
-                          
+                          <!-- eslint-disable-next-line -->
                         </p>
+                        
                        
 
                       <div style="text-align: center ;">
